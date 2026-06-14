@@ -807,8 +807,8 @@ with tab_diagnostics:
                 ),
                 paper_bgcolor='rgba(0,0,0,0)',
                 plot_bgcolor='rgba(0,0,0,0)',
-                xaxis=dict(color='#cbd5e1', font=dict(family='Space Grotesk')),
-                yaxis=dict(color='#cbd5e1', font=dict(family='Space Grotesk')),
+                xaxis=dict(color='#cbd5e1', tickfont=dict(family='Space Grotesk')),
+                yaxis=dict(color='#cbd5e1', tickfont=dict(family='Space Grotesk')),
                 margin=dict(l=40, r=40, t=40, b=40),
                 height=300
             )
