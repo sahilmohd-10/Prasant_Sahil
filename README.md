@@ -1,7 +1,7 @@
 ---
 title: Hardware Buy Predictor
 emoji: 🔬
-colorFrom: cyan
+colorFrom: indigo
 colorTo: blue
 sdk: streamlit
 sdk_version: 1.54.0
